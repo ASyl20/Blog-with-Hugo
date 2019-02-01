@@ -1,5 +1,5 @@
 ---
-title: DIgital Painting
+title: Digital Painting
 date: 2019-02-01T14:30:38.348Z
 ---
 Dans ce cours vidéo de 44 minutes, je te présente un exercice génial de digital painting ! Il te permet non seulement de progresser en t’amusant avec un exercice fun mais surtout celui-ci est adapté autant au débutant qu’à l’artiste avancé qui pratique le digital painting depuis des années.
